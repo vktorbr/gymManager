@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "victor",
+      "birth": 39831955200000,
+      "gender": "M",
+      "services": "Fisiculturismo, Pole Dance",
+      "created_at": 1633630359186
+    }
+  ]
+}
