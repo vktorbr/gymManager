@@ -1,12 +1,12 @@
 {
   "instructors": [
     {
-      "id": 1,
+      "id": "1",
       "avatar_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
-      "name": "victor",
-      "birth": 39831955200000,
-      "gender": "M",
-      "services": "Fisiculturismo, Pole Dance",
+      "name": "victorr",
+      "birth": 827539200000,
+      "gender": "F",
+      "services": "Fisiculturismo, Crossfit",
       "created_at": 1633630359186
     },
     {
@@ -26,15 +26,6 @@
       "gender": "F",
       "services": "Musculação, Powerlifting",
       "created_at": 1633665622598
-    },
-    {
-      "id": 4,
-      "avatar_url": "https://images.unsplash.com/photo-1606663889134-b1dedb5ed8b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-      "name": "VK",
-      "birth": 949363200000,
-      "gender": "F",
-      "services": "Musculação, Powerlifting",
-      "created_at": 1633665769824
     }
   ]
 }
