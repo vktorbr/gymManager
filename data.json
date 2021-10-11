@@ -1,7 +1,7 @@
 {
   "instructors": [
     {
-      "id": "1",
+      "id": 1,
       "avatar_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
       "name": "victorr",
       "birth": 827539200000,
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "avatar_url": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/237656060_379310367100973_979025821798147321_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=fEcgIXMsy4UAX_LzDtk&edm=AJBgZrYBAAAA&ccb=7-4&oh=8178a5d2463a82d15b255d1ad63d92c9&oe=61677B73&_nc_sid=78c662%201080w&dl=1",
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z3ltfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
       "name": "VK",
       "birth": 949363200000,
       "gender": "F",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "avatar_url": "https://instagram.frec10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/237656060_379310367100973_979025821798147321_n.jpg?_nc_ht=instagram.frec10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=fEcgIXMsy4UAX9Me_ST&tn=hJoEPev-kqeJVujx&edm=AP_V10EBAAAA&ccb=7-4&oh=c0a295152238577b9fb25b431ba1f104&oe=61677698&_nc_sid=4f375e",
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
       "name": "VK",
       "birth": 949363200000,
       "gender": "F",
