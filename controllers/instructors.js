@@ -46,9 +46,15 @@ exports.post = function(req, res){
 
     let { birth, services, name, gender, avatar_url } = req.body;
 
+    let id = 1;
+    const lastInstructor = data.instructors[data.instructors.length - 1];
+
+    if(lastInstructor){
+        id = lastInstructor.id + 1;
+    }
+
     birth = Date.parse(birth);
     const created_at = Date.now();
-    const id = Number(data.instructors.length + 1);
 
     data.instructors.push({
         id,
